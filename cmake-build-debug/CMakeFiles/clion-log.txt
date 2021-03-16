@@ -1,0 +1,4 @@
+/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=make -DCMAKE_C_COMPILER=gcc -DCMAKE_CXX_COMPILER=g++ -G "CodeBlocks - Unix Makefiles" /home/molle/Documents/projects/cppAudio
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/molle/Documents/projects/cppAudio/cmake-build-debug
