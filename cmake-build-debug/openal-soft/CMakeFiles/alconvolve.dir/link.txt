@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/alconvolve.dir/examples/alconvolve.c.o -o alconvolve  -Wl,-rpath,/home/molle/Documents/projects/cppAudio/cmake-build-debug/openal-soft -pthread libcommon.a /usr/lib/libsndfile.so libex-common.a libopenal.so.1.21.1 -lrt 

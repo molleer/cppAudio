@@ -1,5 +1,0 @@
-# Hashes of file build rules.
-4bb52d17efd2eab085241b03eee1db41 openal-soft/CMakeFiles/build_version
-4d13f9bb585b710205dbdeb40bfa4563 openal-soft/hrtf_default.h
-e72dc31d00428736a9632b24711b3b58 openal-soft/utils/alsoft-config/moc_mainwindow.cpp
-7cc45d570a6bd464ccb91df6cf63a39c openal-soft/utils/alsoft-config/ui_mainwindow.h

@@ -1,1 +1,0 @@
-/usr/bin/gcc -g -rdynamic CMakeFiles/alloopback.dir/examples/alloopback.c.o -o alloopback  -Wl,-rpath,/home/molle/Documents/projects/cppAudio/cmake-build-debug/openal-soft: -pthread -Wl,-Bstatic -lSDL2main -Wl,-Bdynamic -lSDL2 libex-common.a -lm libopenal.so.1.21.1 -lrt 

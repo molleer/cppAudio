@@ -1,1 +1,0 @@
-/usr/bin/gcc -g -rdynamic CMakeFiles/allatency.dir/examples/allatency.c.o -o allatency  -Wl,-rpath,/home/molle/Documents/projects/cppAudio/cmake-build-debug/openal-soft: -pthread /usr/lib/libsndfile.so libex-common.a libopenal.so.1.21.1 -lrt 

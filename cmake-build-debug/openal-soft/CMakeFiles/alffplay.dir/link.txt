@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/alffplay.dir/examples/alffplay.cpp.o -o alffplay  -Wl,-rpath,/home/molle/Documents/projects/cppAudio/cmake-build-debug/openal-soft: -pthread -Wl,-Bstatic -lSDL2main -Wl,-Bdynamic -lSDL2 -lavformat -lavcodec -lavutil -lswscale -lswresample -lz libex-common.a libopenal.so.1.21.1 -lrt 

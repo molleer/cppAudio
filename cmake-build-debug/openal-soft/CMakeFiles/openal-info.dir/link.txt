@@ -1,1 +1,0 @@
-/usr/bin/gcc -g -rdynamic CMakeFiles/openal-info.dir/utils/openal-info.c.o -o openal-info  -Wl,-rpath,/home/molle/Documents/projects/cppAudio/cmake-build-debug/openal-soft: -pthread libopenal.so.1.21.1 
