@@ -98,6 +98,7 @@ cppAudio_EXTERNAL_OBJECTS =
 
 cppAudio: CMakeFiles/cppAudio.dir/main.cpp.o
 cppAudio: CMakeFiles/cppAudio.dir/build.make
+cppAudio: openal-soft/libopenal.so.1.21.1
 cppAudio: CMakeFiles/cppAudio.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/molle/Documents/projects/cppAudio/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable cppAudio"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cppAudio.dir/link.txt --verbose=$(VERBOSE)

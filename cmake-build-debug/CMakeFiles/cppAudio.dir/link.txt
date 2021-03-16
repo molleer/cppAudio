@@ -1,1 +1,1 @@
-/usr/bin/g++ -g CMakeFiles/cppAudio.dir/main.cpp.o -o cppAudio 
+/usr/bin/g++ -g CMakeFiles/cppAudio.dir/main.cpp.o -o cppAudio  -Wl,-rpath,/home/molle/Documents/projects/cppAudio/cmake-build-debug/openal-soft openal-soft/libopenal.so.1.21.1 
